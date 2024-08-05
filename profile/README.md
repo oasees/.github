@@ -1,12 +1,16 @@
-## OASEES repositories 👋
+<p align="center">
+  <img src="assets/OaseesLogo.png" width="200">
+</p>
 
-<!--
+# OASEES Project
 
-**Here are some ideas to get you started:**
+The OASEES project will deliver a European, fully open-source, decentralized, and secure Swarm programmability framework for edge devices and leveraging various AI/ML accelerators (FPGAs, SNNs, Quantum) while supporting a privacy-preserving Object ID federation process.
 
-🙋‍♀️ OASEES repo
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+---
+
+This project has received funding from the European Union’s HORIZON research and innovation programme under grant agreement No 101092702
+
+<p align="left">
+  <img src="assets/funded_by.png" width="250">
+</p>
